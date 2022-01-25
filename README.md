@@ -28,7 +28,7 @@
 |순번|문제|날짜|풀이|언어|
 |:--:|:--:|:--:|:--:|:--:|
 |1|[암호 만들기](https://www.acmicpc.net/problem/1759)|2022/01/25|[P1759](./solutions/baekjoon/P1759.md)|`.java`|
-|2|
+|2|[탈출](https://www.acmicpc.net/problem/3055)|2022/01/26|[P3055](./solutions/baekjoon/P3055.md)|`.java`|
 
 </br>
 
